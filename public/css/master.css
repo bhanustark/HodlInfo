@@ -2,7 +2,7 @@ body {
   background-color: #191d28;
   font-family: 'Oswald';
 }
-a {
+a, a:hover, a:active, a:focus {
   color: #3dc6c1;
   text-decoration: none;
 }

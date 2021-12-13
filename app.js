@@ -42,7 +42,7 @@ app.get("/update", function(req, res){
           last: json[key].last,
           type: json[key].type,
           open: json[key].open,
-          volume: json[key].valume,
+          volume: json[key].volume,
           sell: json[key].sell,
           buy: json[key].buy,
           at: json[key].at,
